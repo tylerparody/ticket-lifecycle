@@ -52,6 +52,7 @@ Enter the contact information of another user created during the post installati
 <p>
 Login as the Agent created in the post-installation setup using link below.
 </p>
+
 [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)
 
 <p>
