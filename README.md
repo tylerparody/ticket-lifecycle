@@ -1,16 +1,12 @@
 <h1>osTicket - lifecycle </h1>
-This tutorial is to show how tickets flow through osTicket software<br />
-
-The end user login page to submit tickets is below
-
-[http://localhost/osTicket/](http://localhost/osTicket/ )
+This tutorial is to show how tickets flow through osTicket software<br/>
+Tickets are submitted as different users and the tickets are categorized by severity (SEV) by an admin and assigned to the appropriate team and/or support agent<br/>
 
 <p>
 <img src="https://i.imgur.com/xvrxtsu.png" height="70%" width="70%" alt="Windows Search Bar"/>
 </p>
-<p>
-Go to the [http://localhost/osTicket/](http://localhost/osTicket/) and click "Open New Ticket" (this only works on the machine osTicket was installed)
-</p>
+
+Go to [http://localhost/osTicket/](http://localhost/osTicket/) and click "Open New Ticket" (this only works on the machine osTicket was installed)
 
 <p>
 <img src="https://i.imgur.com/wUvhiBg.png" height="70%" width="70%" alt="Windows Search Bar"/>
