@@ -104,10 +104,34 @@ Click the "Default SLA" box and select "SEV-A", then click "Update".
 <p>
 Click "Support" next to Department.
 </p>
-
 <p>
-<img src="https://i.imgur.com/u5ZyH3M.png" height="70%" width="70%" alt="Windows Search Bar"/>
+<img src="https://i.imgur.com/DOI4tZK.png" height="70%" width="70%" alt="Windows Search Bar"/>
 </p>
 <p>
-Click "Support" next to Department.
+Click "--Select--" and change the department to "System Administrators"
+</p>
+<p>
+<img src="https://i.imgur.com/hfibjRN.png" height="70%" width="70%" alt="Windows Search Bar"/>
+</p>
+<p>
+Scroll down to post a reply to the user
+</p>
+
+<p>
+<img src="https://i.imgur.com/DOI4tZK.png" height="70%" width="70%" alt="Windows Search Bar"/>
+</p>
+<p>
+Click "--Select--" and change the department to "System Administrators"
+</p>
+<p>
+<img src="https://i.imgur.com/DOI4tZK.png" height="70%" width="70%" alt="Windows Search Bar"/>
+</p>
+<p>
+Click "--Select--" and change the department to "System Administrators"
+</p>
+<p>
+<img src="https://i.imgur.com/DOI4tZK.png" height="70%" width="70%" alt="Windows Search Bar"/>
+</p>
+<p>
+Click "--Select--" and change the department to "System Administrators"
 </p>
